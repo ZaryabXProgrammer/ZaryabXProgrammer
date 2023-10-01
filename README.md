@@ -1,7 +1,7 @@
-# 💫 About Me:
 
+# 💫![githibbanner](https://github.com/ZaryabXProgrammer/ZaryabXProgrammer/assets/93727250/2132f4e2-3029-41c5-8d1f-e67d13a2d40e)
+ About Me:
 ![bJk](https://github.com/ZaryabXProgrammer/ZaryabXProgrammer/assets/93727250/ea4f8f45-a062-4050-952e-9348e2569d77)
-
 🔭 I'm working on: Learning the full stack for web development.<br>🌱 I'm learning: The latest tech in web development.<br>👯 I want to collaborate on: Exciting projects.<br>🤔 Seeking guidance for: Enhancing my coding skills.<br>💬 Ask me about: My journey as a software engineer.<br>📫 How to reach me: LinkedIn: Zaryab Haider's LinkedIn Profile.<br>😄 Pronouns: He/Him.<br>⚡ Fun fact: I once debugged code during a camping trip! 🏕️🐞
 
 
