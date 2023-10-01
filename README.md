@@ -1,7 +1,5 @@
-
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-
 # 💫 About Me:
+https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
 🔭 I'm working on: Learning the full stack for web development.<br>🌱 I'm learning: The latest tech in web development.<br>👯 I want to collaborate on: Exciting projects.<br>🤔 Seeking guidance for: Enhancing my coding skills.<br>💬 Ask me about: My journey as a software engineer.<br>📫 How to reach me: LinkedIn: Zaryab Haider's LinkedIn Profile.<br>😄 Pronouns: He/Him.<br>⚡ Fun fact: I once debugged code during a camping trip! 🏕️🐞
 
 
