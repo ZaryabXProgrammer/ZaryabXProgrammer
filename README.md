@@ -1,7 +1,7 @@
 
  💫![githibbanner](https://github.com/ZaryabXProgrammer/ZaryabXProgrammer/assets/93727250/2132f4e2-3029-41c5-8d1f-e67d13a2d40e)
 # About Me:
-🔭 I'm a Full Stack Developer, building frontends for agencies, SaaS applications, and blockchain projects.🌱 Currently learning blockchain development.👯 I want to collaborate on: Exciting and innovative projects.🤔 Seeking guidance for: Enhancing my blockchain and web development skills.💬 Ask me about: My journey as a software engineer.📫 How to reach me: LinkedIn: Zaryab Haider's LinkedIn Profile.😄 Pronouns: He/Him.⚡ Fun fact: I once debugged code during a camping trip! 🏕️🐞
+🔭 I'm a Full Stack Developer, building solutions for agencies, SaaS applications, and blockchain projects.🌱 Currently learning blockchain development.👯 I want to collaborate on: Exciting and innovative projects.🤔 Seeking guidance for: Enhancing my blockchain and web development skills.💬 Ask me about: My journey as a software engineer.📫 How to reach me: LinkedIn: Zaryab Haider's LinkedIn Profile.😄 Pronouns: He/Him.⚡ Fun fact: I once debugged code during a camping trip! 🏕️🐞
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaryab_i.shot) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zaryab-haider-b13680227/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Zaryabhaider10) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCNoEGPzlc0fuowfXkjcuI-Q) 
