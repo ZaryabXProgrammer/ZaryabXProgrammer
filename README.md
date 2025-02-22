@@ -1,7 +1,7 @@
 
  💫![githibbanner](https://github.com/ZaryabXProgrammer/ZaryabXProgrammer/assets/93727250/2132f4e2-3029-41c5-8d1f-e67d13a2d40e)
 # About Me:
-🚀 As a Full Stack Developer, I love building impactful solutions for agencies, SaaS platforms, and blockchain projects. 💡 I enjoy turning ideas into scalable, user-friendly applications while continuously exploring new technologies. 🌱 Currently, I’m expanding my expertise in blockchain development to stay ahead in the ever-evolving tech landscape. 🔗 Let’s create something amazing together! ✨
+🚀 As a Full Stack Developer, I thrive on building impactful solutions for agencies, SaaS platforms, and blockchain projects. 💻✨ I enjoy turning ideas into scalable, user-friendly applications while continuously exploring new technologies. 🌱 Currently, I’m expanding my expertise in blockchain development 🔗 to stay ahead in the ever-evolving tech landscape. 🔥 Let’s create something amazing together! 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaryab_i.shot) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zaryab-haider-b13680227/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Zaryabhaider10) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCNoEGPzlc0fuowfXkjcuI-Q) 
