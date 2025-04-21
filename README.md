@@ -1,5 +1,5 @@
+![LinkedIn Banner](https://i.ibb.co/BmpG19r/linked-in-banner.png)
 
- 💫![githibbanner](https://github.com/ZaryabXProgrammer/ZaryabXProgrammer/assets/93727250/2132f4e2-3029-41c5-8d1f-e67d13a2d40e)
 # About Me:
 🚀 As a Full Stack Developer, I thrive on building impactful solutions for agencies, SaaS platforms, and blockchain projects. 💻✨ I enjoy turning ideas into scalable, user-friendly applications while continuously exploring new technologies. 🌱 Currently, I’m expanding my expertise in blockchain development 🔗 to stay ahead in the ever-evolving tech landscape. 🔥 Let’s create something amazing together! 🚀
 
