@@ -1,4 +1,5 @@
-![LinkedIn Banner](https://i.ibb.co/BmpG19r/linked-in-banner.png)
+
+![Blue Modern Corporate Staff Profile LinkedIn Banner](https://github.com/user-attachments/assets/7a20ba22-67a7-498a-9410-cceb6d420702)
 
 # About Me:
 🚀 As a Full Stack Developer, I thrive on building impactful solutions for agencies, SaaS platforms, and blockchain projects. 💻✨ I enjoy turning ideas into scalable, user-friendly applications while continuously exploring new technologies. 🌱 Currently, I’m expanding my expertise in blockchain development 🔗 to stay ahead in the ever-evolving tech landscape. 🔥 Let’s create something amazing together! 🚀
